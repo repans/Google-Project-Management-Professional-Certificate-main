@@ -30,17 +30,15 @@
 
 
 ### 04. Which principles of the Agile Manifesto refer to team dynamics and culture? Select all that apply.    
-- [ ] Regular team check-ins ensure the team stays on track    
+- [x] Regular team check-ins ensure the team stays on track    
 - [ ] Stakeholders should be able to maintain a constant pace indefinitely    
 - [x] Face-to-face conversations are most efficient for conveying information    
 - [ ] Best designs emerge from a well managed and overseen team   [-]  
 
 
-### 05. You're the lead project manager at Office Green LLC, a commercial landscaping company focused on interior plant design. Your company’s market research team |
-identifies a major shift to workers setting up home offices. Your team wants to pursue this business opportunity. 
+### 05. You're the lead project manager at Office Green LLC, a commercial landscaping company focused on interior plant design. Your company’s market research team identifies a major shift to workers setting up home offices. Your team wants to pursue this business opportunity. 
 
-The goal is to deliver their new service, called Virtual Verde, and you don’t have any existing project plans to build off of or time to do a lot of prep work. Which factors |
-do you face? Select three that apply.    
+### The goal is to deliver their new service, called Virtual Verde, and you don’t have any existing project plans to build off of or time to do a lot of prep work. Which factors do you face? Select three that apply.    
 - [x] Complexity     
 - [ ] Budget constraints     
 - [x] Uncertainty and ambiguity    
@@ -84,6 +82,56 @@ do you face? Select three that apply.
 - [ ] Kanban board       
 - [ ] Formal communication freeze       
 - [ ] Daily stakeholder meetings  
+
+
+-----
+## More 
+
+
+
+### 01. What does it mean to say that Agile project management takes an iterative approach? Select all that apply.       
+- [x] The project processes are repeated       
+- [ ] The activities are completed in a linear fashion        
+- [x] The team operates within many shorter blocks of time       
+- [x] The team takes a subset of all the project’s activities and does all the work    
+
+
+
+### 04. How does an Agile team create and maintain the right interpersonal and team dynamics to deliver value for the customers and the business? Select all that apply.       
+- [ ] They do their work during intense periods of high workloads followed by periods of light workload.       
+- [ ] They do not waste time on face-to-face feedback.        
+- [x] They build projects around motivated individuals.       
+- [x] They know face-to-face conversations are the most effective way to communicate.
+
+
+
+### 05. As a project manager, you identify that your business plan may face major disruptive changes and a high degree of uncertainty. Which project management methodology should you follow?         
+- [ ] Waterfall        
+- [x] Agile        
+- [ ] Both Waterfall and Agile can work        
+- [ ] Neither Waterfall nor Agile will work   
+
+
+### 06. Fill in the blank: Agile works best in industries or projects that are susceptible to or that encourage _____.        
+- [ ] planning and documentation        
+- [ ] predictability and certainty        
+- [ ] flexibility and documentation        
+- [x] change and uncertainty   
+
+
+### 07. Where does Scrum get its name? Select all that apply.        
+- [ ] Scrum refers to a football team’s huddle.       
+- [x] The purpose of the rugby scrum is for each player on the team to play their role in order to work together and achieve their shared goal.       
+- [x] Scrum refers to a formation in rugby where players huddle closely together with their heads down while trying to gain possession of the ball.        
+- [ ] Scrum is an acronym for the processes that make up the Agile methodology.
+
+
+### 08. What are the principles of Lean methodology? Select all that apply.        
+- [ ] Collect feedback       
+- [x] Map value stream       
+- [x] Define value       
+- [x] Create flow   
+
 
 
 --- 

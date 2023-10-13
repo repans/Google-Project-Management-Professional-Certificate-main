@@ -150,5 +150,77 @@
 - [ ] Scaled Agile Framework (SAFe) 
 
 
+-------
+# Additional 
+
+### 01. Fill in the blank: You can make sure your team delivers value to customers by building the right thing, building the thing right, and _____. 
+- [ ] selling it right             
+- [ ] scaling as fast as possible           
+- [ ] running it cheaply           
+- [ ] running it right   
+
+
+### 02. What is the purpose of the product roadmap in a value roadmap? Select all that apply.           
+- [ ] It outlines a tentative schedule for reaching milestones.            
+- [ ] It defines how the product will support customers’ business strategies.           
+- [ ] It provides a high-level view of requirements.           
+- [ ] It identifies the end users of the product.   
+
+
+### 03. Fill in the blank: The product vision defines what the product is, who uses it, and how it supports the customer's ____.         
+- [ ] release plan         
+- [ ] business strategy         
+- [ ] financial gains          
+- [ ] professional reputation   
+
+
+### 04. How often should stakeholders and team members review a project roadmap?          
+- [ ] Multiple times during the execution phase         
+- [ ] Multiple times throughout all stages of the project         
+- [ ] Once at the end when the product is delivered         
+- [ ] Once at the beginning of the planning phase  
+
+
+### 05. What is the measure of the team’s ability to complete work at a certain pace?         
+- [ ] Capacity and velocity         
+- [ ] story and epic         
+- [ ] A product roadmap         
+- [ ] A release plan  
+
+
+### 06. As a project manager, you help the product team adopt Agile values and workflow. To help the team with the change, you discuss with them what your competitors are doing to outperform your company in the market. What are you trying to make the team feel?         
+- [ ] A sense of urgency         
+- [ ] A sense of ownership         
+- [ ] A sense of motivation         
+- [ ] A sense of alertness  
+
+
+### 07. Imagine you are a project manager overseeing the adoption of Agile at your organization. When setting goals for the project, you consider the timeline, specific results, and reason for the change. You put this information in a document the whole team can access. Which of the three keys to influence does this scenario demonstrate?         
+- [ ] Clarify measurable results          
+- [ ] Find vital behaviors          
+- [ ] Leverage the six sources of influence  
+
+
+### 08. What are signs of value delivery issues? Select all that apply.          
+- [ ] Tasks are in progress for longer than usual.          
+- [ ] Collaboration between team members has declined.          
+- [ ] The team has stopped asking business people for feedback.          
+- [ ] Team members are working long hours.
+
+
+### 09. As the Product Owner, you have promised that the new software will be ready in six months even though you are not confident that it will be. What cause of an unstable roadmap does this describe?          
+- [ ] Product ambition            
+- [ ] Productvision            
+- [ ] Over-promising          
+- [ ] Product assumptions  
+
+
+### 10. Fill in the blank: Core values of the Scaled Agile Framework(SAFe) are alignmentand ___.           
+- [ ] acceptance           
+- [ ] transparency           
+- [ ] quantity           
+- [ ] frugality   
+
+
 --- 
 > [Agile Project Management](https://www.coursera.org/learn/agile-project-management/) {Week-4}
